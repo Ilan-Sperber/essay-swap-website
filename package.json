@@ -1,0 +1,23 @@
+{
+  "name": "essay-swap-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ilan-Sperber/essay-swap-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ilan-Sperber/essay-swap-website/issues"
+  },
+  "homepage": "https://github.com/Ilan-Sperber/essay-swap-website#readme",
+  "dependencies": {
+    "vue": "^2.6.14"
+  }
+}
